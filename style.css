@@ -8,13 +8,14 @@
     text-align: center;
 }
 
-div{
+#two{
     width: 50%;
     margin-left: 25%;
 }
 
-#four{
-    text-align: center;
+#three{
+    width: 50%;
+    margin-left: 25%;
 }
 
 img{

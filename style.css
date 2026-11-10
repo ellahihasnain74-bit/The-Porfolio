@@ -10,12 +10,10 @@
 
 #two{
     width: 50%;
-    margin-left: 25%;
 }
 
 #three{
-    width: 50%;
-    margin-left: 25%;
+  width: 50%;
 }
 
 img{
@@ -41,4 +39,15 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+hr{
+    width: 100%;
 }
